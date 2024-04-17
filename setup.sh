@@ -23,6 +23,7 @@ sudo apt-get install likwid -y
 sudo luarocks install luasocket
 sudo apt install linux-tools-`uname -r` linux-tools-generic htop -y
 sudo apt install libelf-dev libdw-dev systemtap-sdt-dev libunwind-dev libslang2-dev libnuma-dev libiberty-dev -y
+sudo apt install screen
 
 wget https://gist.githubusercontent.com/sriramdvt/a6cea893ae6d075497eb60e581d965d7/raw/64fb8c20c1a7b6da5fd24eca428bc1d1c84484f1/mongo-perf.sh -P /dev/shm
 wget https://gist.githubusercontent.com/sriramdvt/27b046b512f72ea22f339e717948a86f/raw/c88678bc15c6b36d1d424fe668d26c4a9353c1da/rebuild_perf.sh -P ~
