@@ -1,0 +1,7 @@
+func_id,bytes/cluster,cc/cluster,max,type
+33,7.867,268,9,ser
+42,7.64,239,9,ser
+138,0.029,319,1,enc
+174,0.081,693,4,enc
+58,0.327,345,13,ser
+149,0.172,118,8,ser
